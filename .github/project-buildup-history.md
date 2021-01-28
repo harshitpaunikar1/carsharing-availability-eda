@@ -36,3 +36,7 @@
 
 - Task summary: Got stuck mid-afternoon and had to regroup — ran the whole thing end to end again after a fresh look. Caught a stale import that broke the flow.
 - Deliverable: Cleaner than this morning's version.
+## 2021-01-28 - Day 6: Architecture
+
+- Task summary: Got stuck mid-afternoon and had to regroup — cleaned up the cell ordering in the notebook so it reads top to bottom without jumping around.
+- Deliverable: Pushed before end of day.
