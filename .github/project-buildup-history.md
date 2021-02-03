@@ -60,3 +60,7 @@
 
 - Task summary: Spent another hour on this: added a sanity check assertion that would catch obvious data shape issues early.
 - Deliverable: Cleaner than this morning's version.
+## 2021-02-03 - Day 10: Artifacts
+
+- Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to create or organize diagrams, screenshots, and supporting visuals so the final result looked a bit more complete. Most of the heavy lifting was already done, so this part was more about making the rough edges less obvious. A good chunk of the day went into making the flow feel believable from a user point of view.
+- Deliverable: Ended the day with support visuals in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
