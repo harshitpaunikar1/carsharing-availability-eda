@@ -72,3 +72,7 @@
 
 - Task summary: Used the last day on Car-Sharing Availability Uplift via EDA to slow down and finish the loose ends. I mainly had to do a final pass for clarity, consistency, and first-impression quality and make sure the project told a clean story from start to finish. I was not trying to add anything fancy here, just making sure the thing looked complete enough to show someone. I was also trying to keep the idea grounded so it did not drift into random features for no reason.
 - Deliverable: Finished with final polish looking decent enough to call this version done, even if I could still nitpick a few things. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
+## 2021-02-05 - Day 12: Polish wrap
+
+- Task summary: After stepping away for a bit, came back and the output formatting looked messy when printed, so added a cleaner display block.
+- Deliverable: Good enough to not be embarrassing.
